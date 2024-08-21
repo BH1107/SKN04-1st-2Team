@@ -16,7 +16,7 @@
 |:---:|:---:|:---:|:---:|
 |![image](https://avatars.githubusercontent.com/u/123962719?v=4)| ![image](https://avatars.githubusercontent.com/u/156050645?v=4) | ![image](https://avatars.githubusercontent.com/u/133561847?v=4) | ![image](https://avatars.githubusercontent.com/u/174983658?s=400&u=5f1662f95ced679e306eeca0c47b6da33aed1f8f&v=4) |
 |[@BH1107](https://github.com/BH1107)|[@lotusflwrr](https://github.com/lotusflwrr)|[@jururuj](https://github.com/jururuj)|[@Taeuk-Dog](https://github.com/Taeuk-Dog)|
-|Project Leader  Streamlit|Crawling|Database|Database|
+|Project Leader<br/>Streamlit|Crawling|Database|Database|
 
 
 ##  프로젝트 개요 🐕
