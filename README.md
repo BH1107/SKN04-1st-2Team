@@ -3,27 +3,34 @@
 </p>
 
 # SKN04-1st-2Team
-## 1. 팀 소개
+## 목차 🐈
+  - [팀 소개](#팀-소개) 
+  - [프로젝트 개요](#프로젝트-개요)
+  - [기술스택](#기술스택)
+## 팀 소개 🐧
 ### 팀명 : 쌍리김박 팀
 ### 팀원 소개
-|![image](https://avatars.githubusercontent.com/u/123962719?v=4)|![image](https://avatars.githubusercontent.com/u/156050645?v=4)|![image](https://avatars.githubusercontent.com/u/133561847?v=4)|![image](https://avatars.githubusercontent.com/u/174983658?s=400&u=5f1662f95ced679e306eeca0c47b6da33aed1f8f&v=4)|
-|---|---|---|---|
-|박병헌 팀장| 이시연 | 이진섭 | 김태욱 |
-|Streamlit|Crwaling|Database|Database|
 
-## 2. 프로젝트 개요 
-### 개발 기간 
-2024-08-22 ~ 2024-08-23
-### 프로젝트 명 
+
+|박병헌|이시연|이진섭|김태욱|
+|:---:|:---:|:---:|:---:|
+|![image](https://avatars.githubusercontent.com/u/123962719?v=4)| ![image](https://avatars.githubusercontent.com/u/156050645?v=4) | ![image](https://avatars.githubusercontent.com/u/133561847?v=4) | ![image](https://avatars.githubusercontent.com/u/174983658?s=400&u=5f1662f95ced679e306eeca0c47b6da33aed1f8f&v=4) |
+|[@BH1107](https://github.com/BH1107)|[@lotusflwrr](https://github.com/lotusflwrr)|[@jururuj](https://github.com/jururuj)|[@Taeuk-Dog](https://github.com/Taeuk-Dog)|
+|Project Leader  Streamlit|Crawling|Database|Database|
+
+
+##  프로젝트 개요 🐕
+>### 개발 기간 
+2024-08-21 ~ 2024-08-23
+>### 프로젝트 명 
 자동차 등록 현황 - 전기차 급발진/배터리 폭발
-### 프로젝트 소개 
+>### 프로젝트 소개 
 자동자 등록 현황과 더불어 요즈음 이슈인 전기차 관련 사항을 정리했습니다.
 
-### 프로젝트 내용 
-#### 프로젝트 배경 
+>### 프로젝트 배경 
 최근 몇 년간 국내 자동차 시장에서 국산차에 대한 관심이 급증하고 있습니다. 소비자들은 다양한 정보에 접근하고자 하나, 정보의 분산 및 비체계적 제공으로 인해 적절한 선택에 어려움을 겪고 있습니다. 이에 따라, 체계적이고 종합적인 국산차 정보 제공의 필요성이 대두되었습니다.
 기존 휘발유, 경유 차량의 환경 문제가 대두됨에 따라 서서히 발전해온 전기차는 2010년 중반부터 본격적으로 성공을 거두기 시작했습니다.
-#### 프로젝트 목표 
+>### 프로젝트 목표 
 - **기능1**: 기능1에 대한 소개입니다.
 - **기능2**: 기능2에 대한 소개입니다.
 - **기능3**: 기능3에 대한 소개입니다.
@@ -32,5 +39,25 @@
 
 <br><br><br>
 
-## 3. 기술스택
+##  기술스택 🐇
+
+ **Envionment**
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+
+ **Development**
+
+   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+ **Database**
+
+ <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+ 
+ **Test automation tool**
+
+ <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 
