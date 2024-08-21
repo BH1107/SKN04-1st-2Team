@@ -20,7 +20,7 @@
         <div>
           <img src="https://avatars.githubusercontent.com/u/156050645?v=4"width="100px;"height="100px;" alt=""/>
           <a href="https://github.com/lotusflwrr"><div align=center>이시연</div></a>
-          <a href="https://github.com/lotusflwrr"><div align=center>Crwaling</div></a>
+          <a href="https://github.com/lotusflwrr"><div align=center>Crwaling:shipit:</div></a>
         </div>
       </td>
       <td align="center">
