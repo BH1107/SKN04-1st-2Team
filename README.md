@@ -18,16 +18,16 @@
       </td>
       <td align="center">
         <div>
-          <img src="https://avatars.githubusercontent.com/u/133561847?v=4"width="100px;"height="100px;" alt=""/>
-          <a href="https://github.com/jururuj"><div align=center>이진섭</div></a>
-          <a href="https://github.com/jururuj"><div align=center>DB담당</div></a>
+          <img src="https://avatars.githubusercontent.com/u/156050645?v=4"width="100px;"height="100px;" alt=""/>
+          <a href="https://github.com/lotusflwrr"><div align=center>이시연</div></a>
+          <a href="https://github.com/lotusflwrr"><div align=center>Crwaling담당</div></a>
         </div>
       </td>
       <td align="center">
         <div>
-          <img src="https://avatars.githubusercontent.com/u/156050645?v=4"width="100px;"height="100px;" alt=""/>
-            <a href="https://github.com/lotusflwrr"><div align=center>이시연</div></a>
-            <a href="https://github.com/lotusflwrr"><div align=center>Crwaling담당</div></a>
+          <img src="https://avatars.githubusercontent.com/u/133561847?v=4"width="100px;"height="100px;" alt=""/>
+          <a href="https://github.com/jururuj"><div align=center>이진섭</div></a>
+          <a href="https://github.com/jururuj"><div align=center>DB담당</div></a>
         </div>
       </td>
       <td align="center">
