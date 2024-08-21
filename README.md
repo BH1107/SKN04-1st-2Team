@@ -7,7 +7,7 @@
     <tr>
       <td align="center">
         <div>
-          <img src="이미지 주소 경로"width="100px;"height="100px;" alt=""/>
+          <img src="https://avatars.githubusercontent.com/u/123962719?v=4"width="100px;"height="100px;" alt=""/>
            <a href="https://github.com/BH1107"><div align=center>팀장 박병헌</div></a>
         </div>
       </td>
