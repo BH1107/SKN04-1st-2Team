@@ -4,9 +4,9 @@
 
 # SKN04-1st-2Team
 ## 목차 🐈
-  - [팀 소개](#팀-소개) 
-  - [프로젝트 개요](#프로젝트-개요)
-  - [기술스택](#기술스택)
+  - [팀 소개 ](#팀-소개-🐧) 
+  - [프로젝트 개요](#프로젝트-개요-🐕)
+  - [기술스택](#기술스택-🐇)
 ## 팀 소개 🐧
 ### 팀명 : 쌍리김박 팀
 ### 팀원 소개
@@ -16,10 +16,10 @@
 |:---:|:---:|:---:|:---:|
 |![image](https://avatars.githubusercontent.com/u/123962719?v=4)| ![image](https://avatars.githubusercontent.com/u/156050645?v=4) | ![image](https://avatars.githubusercontent.com/u/133561847?v=4) | ![image](https://avatars.githubusercontent.com/u/174983658?s=400&u=5f1662f95ced679e306eeca0c47b6da33aed1f8f&v=4) |
 |[@BH1107](https://github.com/BH1107)|[@lotusflwrr](https://github.com/lotusflwrr)|[@jururuj](https://github.com/jururuj)|[@Taeuk-Dog](https://github.com/Taeuk-Dog)|
-|Project Leader<br/>Streamlit|Crawling|Database|Database|
+|**Project Leader**<br/>Streamlit|Crawling|Database|Database|
 
 
-##  프로젝트 개요 🐕
+##  프로젝트 개요  🐕
 >### 개발 기간 
 2024-08-21 ~ 2024-08-23
 >### 프로젝트 명 
